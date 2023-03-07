@@ -1,0 +1,14 @@
+{
+  "name": "route_handler_chaining",
+  "author": "Bhargav Das Gupta",
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon"
+  }
+}
